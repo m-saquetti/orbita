@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+dados/
+receitas/
+toolkit/dados/
+toolkit/receitas/
+*.log
+.env
+.env.*
